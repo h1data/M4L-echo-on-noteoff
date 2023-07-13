@@ -1,8 +1,13 @@
-An experimental MIDI effect designed for notes in arpeggios.
+# echo on noteoff
+
+![image of echo of noteoff Max for Live device](img/eono.gif)
+
+## What is this?
+An experimental Max for Live MIDI effect designed for notes in arpeggios.
 Put before built-in Arpeggiator to acquire decaying effects in arpeggio notes!
 
-Changes in version 1.0.0 (June 27, 2020)
-- Introduces new "Auto Stop" button as much specialized mode for use with Arpeggiator.
-- Fixed issues about retrigger, and where echoes might repeat endlessly.
+## Download 
+https://maxforlive.com/library/device/5563/echo-on-noteoff
 
-Check URL for detailed descriptions.
+## Known Issues
+see [Issues](https://github.com/h1data/M4L-echo-on-noteoff/issues?q=)
