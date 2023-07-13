@@ -9,6 +9,9 @@ Put before built-in Arpeggiator to acquire decaying effects in arpeggio notes!
 ## Download 
 https://maxforlive.com/library/device/5563/echo-on-noteoff
 
+## Requirements
+- Ableton Live 9.7.7 / Cycling '74 Max 6.1.7 or later
+
 ## Parameters
 (ordered in the appearance of the automation control chooser list)
 - `Delay mode` (Sync/Free) Switches whether delay offset of echo notes to the song tempo or calibrate it in milliseconds.
