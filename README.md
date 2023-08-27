@@ -10,14 +10,14 @@ Put before built-in Arpeggiator to acquire decaying effects in arpeggio notes!
 https://maxforlive.com/library/device/5563/echo-on-noteoff
 
 ## Requirements
-- Ableton Live 9.7.7 / Cycling '74 Max 6.1.7 or later
+- Ableton Live 11.1 / Cycling '74 Max 8.2 or later
 
 ## Parameters
 (ordered in the appearance of the automation control chooser list)
 - `Delay mode` (Sync/Free) Switches whether delay offset of echo notes to the song tempo or calibrate it in milliseconds.
 - `Delay` (free/sync) Adjusts the delay offset time to start echo notes.
 - `Duration mode` (Sync/Free) Switches whether the duration of echo notes to the song tempo or calibrate it in milliseconds.
-- `Delay` (free/sync) Adjusts the duration time to start echo notes.
+- `Duration` (free/sync) Adjusts the duration time to start echo notes.
 - `Feedback` Adjusts the ratio for the velocity of feedback echo notes.
 - `Velocity` Adjusts the ratio for the velocity of the first echo note from note off.
 - `Reset` Stop and disable all notes. Pressing the button always makes an undo history of Live.

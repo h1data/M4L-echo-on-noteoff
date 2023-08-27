@@ -1,8 +1,10 @@
 An experimental MIDI effect designed for notes in arpeggios.
 Put before built-in Arpeggiator to acquire decaying effects in arpeggio notes!
 
-Changes in version 1.0.0 (June 27, 2020)
-- Introduces new "Auto Stop" button as much specialized mode for use with Arpeggiator.
-- Fixed issues about retrigger, and where echoes might repeat endlessly.
+Changes in version 2.0.0 (August 27, 2023)
+- BREAKING CHANGE: minimum requirements are now Live 11.1 / Max 8.2
+  For older versions, check the old releases on the URL below.
+- Tweaked UI.
+- Adapted to Push.
 
 Check URL for detailed descriptions.
