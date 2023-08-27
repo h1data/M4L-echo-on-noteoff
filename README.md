@@ -1,6 +1,6 @@
 # echo on noteoff
 
-![image of echo of noteoff Max for Live device](img/eono.gif)
+![image of echo of noteoff Max for Live device](img/eono.png)
 
 ## What is this?
 An experimental Max for Live MIDI effect designed for notes in arpeggios.
