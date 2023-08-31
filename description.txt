@@ -7,4 +7,7 @@ Changes in version 2.0.0 (August 27, 2023)
 - Tweaked UI.
 - Adapted to Push.
 
+Changes in version 2.0.1 (August 31, 2023)
+- Changed the bank name in Push to 'Main', following built-in devices.
+
 Check URL for detailed descriptions.
